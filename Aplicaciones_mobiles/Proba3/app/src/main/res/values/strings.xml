@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proba3</string>
+    <string name="hola">hola</string>
+    <string name="kotlin">kotlin</string>
+    <string name="avatar">avatar</string>
+    <string name="todo">todo</string>
+    <string name="Consola">Consola</string>
+    <string name="button">boton</string>
+    <string name="passwd">passwd</string>
+    <string name="name">NAME</string>
+    <string name="Username">User</string>
+    <string name="login">Login</string>
+</resources>
