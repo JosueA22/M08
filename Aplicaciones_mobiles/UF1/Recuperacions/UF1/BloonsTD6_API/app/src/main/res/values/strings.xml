@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BloonsTD6_API</string>
+    <string name="error_loading_description">Error loading description</string>
+</resources>
